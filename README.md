@@ -4,7 +4,7 @@
   <a target="_blank">
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
   </a>
-  Hii There, 𝗜'𝗺 &lt;Nguyen Van Tuan/&gt;!
+  Hii There, 𝗜'𝗺 &lt;Truonghocdot/&gt;!
   <a target="_blank">
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
   </a>
@@ -17,7 +17,6 @@
 
 - 🌱 I’m currently learning Web Development
 - ✍ I'm a student of: [Bach Khoa - Aptech ](https://bachkhoa-aptech.edu.vn/) (BKAP)
-- 🧐 Portfolio Website: [Click Here !](https://tuanflute275.github.io/introduce/)
 
 <h2> Contact for work </h2>
 <p align="center">
