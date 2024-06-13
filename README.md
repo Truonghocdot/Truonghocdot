@@ -1,4 +1,4 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+![image](https://github.com/Truonghocdot/Truonghocdot/assets/160713748/6cb13c16-43a6-4547-b733-9c3f9afaffcd)<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <h1 align="center">
   <a target="_blank">
@@ -55,23 +55,16 @@
     <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/laravel.png"/>
-    <img src="https://img.icons8.com/color/48/null/nestjs.png"/>
   </p>
 </span>
 <h4> Database</h4>    
 <span>
    <p align="center">
      <img src="https://img.icons8.com/fluency/65/000000/mysql-logo.png"/>
-     <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png"/>
+     <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"/>
    </p>
 </span>
-<h4>  IDE</h4>    
-<span>
-   <p align="center">
-    <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
-   </p>
-</span>
+
 
 <br>
 
