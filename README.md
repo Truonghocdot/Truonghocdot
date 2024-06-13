@@ -47,15 +47,16 @@
     <img src="https://img.icons8.com/fluency/65/000000/css3.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/php.png"/>
-    <img src="https://img.icons8.com/ios/50/express-js.png" />
   </p>
 </span>
 <h4> Frameworks - Library </h4>
 <span> 
     <p align="center">
+      <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/sass.png" alt="sass"/>
     <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/laravel.png"/>
+    <img src="https://img.icons8.com/ios/50/express-js.png" />
   </p>
 </span>
 <h4> Database</h4>    
